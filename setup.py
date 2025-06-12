@@ -40,7 +40,7 @@ if sys.argv[-1] == "publish":
 
 
 setup(
-    name="custom-openwisp-users",
+    name="openwisp-users",
     version=get_version(),
     license="BSD",
     author="OpenWISP",
